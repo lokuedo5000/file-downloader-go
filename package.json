@@ -1,0 +1,23 @@
+{
+  "name": "file-downloader-go",
+  "version": "1.0.0",
+  "description": "descargador de archivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "descargar",
+    "archivo",
+    "URL",
+    "Node.js",
+    "descargador",
+    "gestión de descargas",
+    "http",
+    "https",
+    "descarga de archivos",
+    "utilidad de descarga"
+  ],
+  "author": "Lwte",
+  "license": "MIT"
+}
