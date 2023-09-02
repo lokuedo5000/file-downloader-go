@@ -1,23 +1,36 @@
 {
   "name": "file-downloader-go",
-  "version": "1.0.0",
-  "description": "descargador de archivos",
+  "version": "1.0.4",
+  "description": "A Node.js module for downloading files from URLs and saving them locally, featuring real-time progress monitoring and error handling.",
+  "homepage": "https://github.com/lokuedo5000/file-downloader-go",
   "main": "index.js",
+  "types": "file-downloader-go.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lokuedo5000/file-downloader-go.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "descargar",
-    "archivo",
+    "download",
+    "file",
     "URL",
     "Node.js",
-    "descargador",
-    "gestión de descargas",
+    "downloader",
+    "file-downloader",
+    "download management",
     "http",
     "https",
-    "descarga de archivos",
-    "utilidad de descarga"
+    "file download",
+    "download utility",
+    "downloads-queue-go",
+    "file-downloader-go"
   ],
   "author": "Lwte",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "file-downloader-go.d.ts"
+  ]
 }
