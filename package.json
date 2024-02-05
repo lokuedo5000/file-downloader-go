@@ -4,7 +4,7 @@
   "description": "A Node.js module for downloading files from URLs and saving them locally, featuring real-time progress monitoring and error handling.",
   "homepage": "https://github.com/lokuedo5000/file-downloader-go",
   "main": "index.js",
-  "types": "file-downloader-go.d.ts",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/lokuedo5000/file-downloader-go.git"
@@ -31,6 +31,6 @@
   "license": "MIT",
   "files": [
     "index.js",
-    "file-downloader-go.d.ts"
+    "index.d.ts"
   ]
 }
